@@ -1,4 +1,5 @@
-![lucia.p](banner-dark.svg#gh-dark-mode-only)![lucia.p](banner-light.svg#gh-light-mode-only)
+
+<img src="lucia-pcap-profile-banner.svg" width="100%">
 
 ```console
 $ nmap -sV -p- lucia.pan
