@@ -64,17 +64,15 @@ Open to junior roles, internships and open-source projects related to cybersecur
  3  CCNA · Cisco                                               [planned]
 ```
  
-### $ telnet lucia.pan 25
- 
+## $ ping -c 2 lucia.pan
 ```console
-220 lucia.pan ESMTP ready
-HELO visitor
-250 Hello, nice to meet you
-RCPT TO: pan.luciaa@gmail.com
-250 OK
-QUIT
-221 See you soon
+64 bytes from   pan.luciaa@gmail.com:        icmp_seq=1 ttl=64 time=0.0092 ms
+64 bytes from   linkedin.com/in/luciaapan:   icmp_seq=2 ttl=64 time=0.0092 ms
+
+--- lucia.pan ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss
 ```
+
  
 🌐 [lucia-pcap.github.io](https://lucia-pcap.github.io/) · 💼 [LinkedIn](https://www.linkedin.com/in/luciaapan) · 📫 [pan.luciaa@gmail.com](mailto:pan.luciaa@gmail.com)
  
