@@ -1,4 +1,3 @@
-
 <img src="lucia-pcap-profile-banner.svg" width="100%">
 
 ```console
