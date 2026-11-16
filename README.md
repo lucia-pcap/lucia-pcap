@@ -24,13 +24,10 @@ Nmap done: 1 host up, 7 open ports.
  
 ### $ whoami
  
-- 🔐 AppSec Intern @G+D (Giesecke+Devrient), learning how applications are protected from the inside.
-- 🎓 Fourth-year Computer Engineering student @[FIB-UPC](https://www.fib.upc.edu/), specialising in Information Technologies.
-- 📡 Passionate about **cybersecurity** and **networks**, and especially interested in **cloud** and **post-quantum cryptography**.
-- 🔍 I like understanding how things work, and how to break them.
-- 🟢 Open to junior roles, internships and open-source projects related to cybersecurity, networks, cloud and backend development.
-- 🗣️ Spanish · Catalan · English · Chinese
-- 🥊 Off the terminal: reading, watching series and currently trying out kickboxing :)
+Hi! I’m Lucía, a fourth-year Computer Engineering student at FIB-UPC, currently working as an Application Security Intern. 
+Passionate about cybersecurity and networks, and especially interested in cloud and post-quantum cryptography. I like understanding how things work, and how to break them.
+
+Open to junior roles, internships and open-source projects related to cybersecurity, networks, cloud and backend development.
 ### $ show stack
  
 **Languages**
