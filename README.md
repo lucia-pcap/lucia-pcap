@@ -4,14 +4,14 @@
 $ nmap -sV -p- lucia.pan
 Host is up (0.0092s latency).
 
-PORT STATE SERVICE INFO
-22/tcp   open  ssh       Lucía Pan · Barcelona
-53/udp   open  domain    Computer Engineering (IT) @FIB-UPC
-443/tcp  open  https     AppSec Intern (@G+D)
-8080/tcp open  http-alt  lucia-pcap.github.io
-161/udp  open  snmp      skills
-179/tcp  open  bgp       certification roadmap
-25/tcp   open  smtp      contact
+PORT     STATE  SERVICE   INFO
+22/tcp   open   ssh       Lucía Pan · Barcelona
+53/udp   open   domain    Computer Engineering (IT) @FIB-UPC
+443/tcp  open   https     AppSec Intern (@G+D)
+8080/tcp open   http-alt  lucia-pcap.github.io
+161/udp  open   snmp      skills
+179/tcp  open   bgp       certification roadmap
+25/tcp   open   smtp      contact
 
 Nmap done: 1 host up, 7 open ports.
 ```
