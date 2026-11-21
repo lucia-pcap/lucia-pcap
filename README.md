@@ -22,7 +22,7 @@ I am Lucía, a fourth-year Computer Engineering student @FIB-UPC, specialised in
 Passionate about cybersecurity and networks, with a special interest in cloud and post-quantum cryptography. I like understanding how things work, and how to break them.
 
 Open to junior roles, internships and open-source projects related to cybersecurity, networks, cloud and backend development.
-### $ show stack
+### $ show skills
 
 **Languages**
 
