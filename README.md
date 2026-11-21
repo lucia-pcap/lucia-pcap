@@ -5,13 +5,13 @@ $ nmap -sV -p- lucia.pan
 Host is up (0.0092s latency).
 
 PORT STATE SERVICE INFO
-22/tcp open ssh Lucía Pan · Barcelona
-53/udp open domain Computer Engineering (IT) @ FIB-UPC, 4th year
-443/tcp open https AppSec Intern (G+D)
-8080/tcp open http-alt lucia-pcap.github.io
-161/udp open snmp skills
-179/tcp open bgp certification roadmap
-25/tcp open smtp contact
+22/tcp   open  ssh       Lucía Pan · Barcelona
+53/udp   open  domain    Computer Engineering (IT) @FIB-UPC
+443/tcp  open  https     AppSec Intern (@G+D)
+8080/tcp open  http-alt  lucia-pcap.github.io
+161/udp  open  snmp      skills
+179/tcp  open  bgp       certification roadmap
+25/tcp   open  smtp      contact
 
 Nmap done: 1 host up, 7 open ports.
 ```
@@ -19,7 +19,7 @@ Nmap done: 1 host up, 7 open ports.
 ### $ whoami
 
 I am Lucía, a fourth-year Computer Engineering student @FIB-UPC, specialised in Information Technology. Currently working as an Application Security Intern @G+D.
-Passionate about cybersecurity and networks, with an especial interest in cloud and post-quantum cryptography. I like understanding how things work, and how to break them.
+Passionate about cybersecurity and networks, with a special interest in cloud and post-quantum cryptography. I like understanding how things work, and how to break them.
 
 Open to junior roles, internships and open-source projects related to cybersecurity, networks, cloud and backend development.
 ### $ show stack
